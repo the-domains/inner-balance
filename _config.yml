@@ -1,0 +1,28 @@
+name: Inner Balance
+favicon: null
+layout_spectrum: 0.909079322591424
+typography_spectrum: 0.6009816790465266
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6924439880531281
+  lightness: 0.9279126164037734
+  saturation: 0.26755289756692946
+  rhythmicContrast: 0.1386466941330582
+purpose: []
